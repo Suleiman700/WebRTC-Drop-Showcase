@@ -5,7 +5,7 @@
 
 **WebRTC Drop** is an ultra-secure, peer-to-peer file sharing and chat application that feels like a native experience in your browser. Files are sent directly between devices using WebRTC Data Channels — they **never touch a cloud server**.
 
-> 📌 This is a **showcase repository**. It contains screenshots and a feature overview only. The full source code is maintained in a private repository.
+> 📌 This is a **showcase repository**. It contains screenshots and a feature overview only. The full source code is not available to the public.
 
 <p align="center">
   <img src="screenshots/hero.png" alt="WebRTC Drop" width="210px" />
