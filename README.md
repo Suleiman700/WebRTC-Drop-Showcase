@@ -8,7 +8,7 @@
 > 📌 This is a **showcase repository**. It contains screenshots and a feature overview only. The full source code is maintained in a private repository.
 
 <p align="center">
-  <img src="screenshots/hero.png" alt="WebRTC Drop" width="640px" />
+  <img src="screenshots/hero.png" alt="WebRTC Drop" width="440px" />
 </p>
 
 ---
